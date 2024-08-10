@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application 0404</string>
+    <string name="song_title_here">Song Title Here</string>
+    <string name="all_songs">All Songs</string>
+    <string name="_00_00">00:00</string>
+</resources>
